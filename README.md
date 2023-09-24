@@ -5,7 +5,7 @@ in and need to create the following
 
 ## To Run the project:<br>
 py manage.py<br>
-Run the server on http://127.0.0.1:8000/<br>
+Runs the server on http://127.0.0.1:8000/<br>
 
 ## Requirements:<br>
 Python 3.x<br>
