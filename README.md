@@ -3,11 +3,11 @@ An incident management system is a structured approach to handling and resolving
 The Front for the incident management system is in html and css. Backend is in Python.
 in and need to create the following
 
-To Run the project:<br>
+## To Run the project:<br>
 py manage.py<br>
 Run the server on http://127.0.0.1:8000/<br>
 
-Requirements:<br>
+## Requirements:<br>
 Python 3.x<br>
 Flask web framework<br>
 py -m pip install -U Flask<br>
@@ -15,7 +15,7 @@ SQL database (such as MySQL or PostgreSQL)<br>
 pip install django-rest-passwordreset<br>
 
 
-# The Key functionalities:
+## The Key functionalities:
 <li> login page </li>
 <li> register page </li> <br>
 i. User Name<br>
