@@ -22,7 +22,7 @@ i. User Name<br>
 ii. User Email ID<br>
 iii. User Phone Number<br>
 iv. User Address, Pin code<br>
-v. City and Country. <br>
+v. City and Country. <br><br><br>
 <li> Forgot Password  </li> <br>
 <li> Create Incident  </li> <br>
  The incidents include the following details- <br>
