@@ -3,16 +3,16 @@ An incident management system is a structured approach to handling and resolving
 The Front for the incident management system is in html and css. Backend is in Python.
 in and need to create the following
 
-To Run the project:
-py manage.py
-Run the server on http://127.0.0.1:8000/
+To Run the project:<br>
+py manage.py<br>
+Run the server on http://127.0.0.1:8000/<br>
 
-Requirements:
-Python 3.x
-Flask web framework
-py -m pip install -U Flask
-SQL database (such as MySQL or PostgreSQL)
-pip install django-rest-passwordreset
+Requirements:<br>
+Python 3.x<br>
+Flask web framework<br>
+py -m pip install -U Flask<br>
+SQL database (such as MySQL or PostgreSQL)<br>
+pip install django-rest-passwordreset<br>
 
 
 # The Key functionalities:
@@ -35,7 +35,7 @@ e.Incident status (Open, In progress, Closed) Should be editable </ol><br>
 
 ## Limitations
 i. A User should be allowed to view and edit the incidents created by
-them only.
-ii. No user should be able to view other users’ incidents.
-iii. Any Incident which has the state = closed, should not be editable.
-iv. There should be a provision to search the incident using the Incident ID.# Incident-Management-System
+them only.<br>
+ii. No user should be able to view other users’ incidents.<br>
+iii. Any Incident which has the state = closed, should not be editable.<br>
+iv. There should be a provision to search the incident using the Incident ID.# Incident-Management-System<br>
